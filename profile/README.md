@@ -1,5 +1,5 @@
 # Self-hosted modern messenger for teams
 
-* API: [api.gamarjoba.team](https://api.gamarjoba.team)
+* API: [api.teamin.pro](https://api.teamin.pro)
 * protocol specification: [github.com/teammin-pro/teaproto](https://github.com/teammin-pro/teaproto)
-* web client: [pingie.gamarjoba.team](https://pingie.gamarjoba.team)
+* web client: [web.teamin.pro](https://web.teamin.pro)
